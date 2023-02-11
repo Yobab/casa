@@ -9,3 +9,19 @@ body{
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+h2{
+    font-family:'Times New Roman', Times, serif;
+    font-size:15px;
+    color:cadetblue;
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+    color:cadetblue;
+}
+
+main{
+    font-family: 'Times New Roman', Times, serif;
+    color:cadetblue;
+}
